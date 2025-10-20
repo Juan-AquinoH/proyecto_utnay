@@ -58,7 +58,7 @@ Elaboro: Juan Carlos Aquino Hernández
 - `matrix_multiplication(mat1, mat2)`
 
 
-### 📄 `task_3.py` *(opcional según práctica)*
+###  `task_3.py` 
 
 
 
@@ -111,7 +111,7 @@ Resultado esperado:
 #[400, 358, 316, 274]
 #[560, 502, 444, 386]  
 
-### 📄 `task_4.py` — Script principal 🧠
+###  `task_4.py` — Script principal 
 
 - Importa funciones desde el **paquete `matrix_hexagon_package`**.
 - Realiza:
@@ -161,7 +161,7 @@ from matrix_hexagon_package import area_hexagon, matrix_multiplication
 
 ->Reutilización en múltiples scripts
 
-->Facilidad de mantenimiento y lectura
+->Facilidad de mantenimiento y lecturassss
 
 ->Mejores prácticas de desarrollo en Python
 
